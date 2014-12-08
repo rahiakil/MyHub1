@@ -1,6 +1,6 @@
 //
-//  papaiphone1Tests.m
-//  papaiphone1Tests
+//  papaiphone2Tests.m
+//  papaiphone2Tests
 //
 //  Created by Sancheeta Paul on 12/8/14.
 //  Copyright (c) 2014 parag paul. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface papaiphone1Tests : XCTestCase
+@interface papaiphone2Tests : XCTestCase
 
 @end
 
-@implementation papaiphone1Tests
+@implementation papaiphone2Tests
 
 - (void)setUp {
     [super setUp];
