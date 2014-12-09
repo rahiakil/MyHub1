@@ -17,8 +17,8 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oRb-Dz-GyD" colorLabel="IBBuiltInLabel-Red">
-                                <rect key="frame" x="61" y="43" width="73" height="30"/>
-                                <state key="normal" title="Press here"/>
+                                <rect key="frame" x="61" y="43" width="61" height="30"/>
+                                <state key="normal" title="New text"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
