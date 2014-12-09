@@ -12,6 +12,7 @@ sub main
 
     opendir(DIR, $dir) or die $!;
     my $jobDir = './builds/jobs/';
+    make_path($jobDir);
 
     while (my $file = readdir(DIR)) {
 
